@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.company","l":"CallRejectedException"},{"p":"com.company","l":"Phone"},{"p":"com.company","l":"PhoneRegisterEntry"},{"p":"com.company","l":"PhoneSimulator"},{"p":"com.company","l":"PhoneUnavailableException"}];updateSearchResults();

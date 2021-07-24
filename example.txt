@@ -1,0 +1,8 @@
+Phone{881547540}
+[Outbound calls]
+{652590033, Accepted, Available, 2021-07-24 14:44:20, PT2M}
+{652590033, Accepted, Available, 2021-07-24 14:42:34, PT20S}
+
+[Inbound calls]
+{642707504, Rejected, Unavailable, 2021-07-24 14:44:36, PT0S}
+
